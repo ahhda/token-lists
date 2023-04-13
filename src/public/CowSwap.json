@@ -644,6 +644,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x18084fba666a33d37592fa2633fd49a74dd93a88/logo.png"
+    },
+    {
+      "address": "0xe2ba8693ce7474900a045757fe0efca900f6530b",
+      "symbol": "fDAI",
+      "name": "Flux DAI",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xe2ba8693ce7474900a045757fe0efca900f6530b/logo.png"
     }
   ]
 }
