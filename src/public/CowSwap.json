@@ -644,6 +644,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x18084fba666a33d37592fa2633fd49a74dd93a88/logo.png"
+    },
+    {
+      "address": "0x81994b9607e06ab3d5cf3afff9a67374f05f27d7",
+      "symbol": "fUSDT",
+      "name": "Flux USDT",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x81994b9607e06ab3d5cF3AffF9a67374f05F27d7/logo.png"
     }
   ]
 }
